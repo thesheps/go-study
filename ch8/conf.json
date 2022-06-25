@@ -1,0 +1,7 @@
+{
+    "Servers": [
+        { "Name": "Europe/London", "URL": "localhost:8080" },
+        { "Name": "Asia/Tokyo", "URL": "localhost:8081" },
+        { "Name": "US/Eastern", "URL": "localhost:8082" }
+    ]
+}
